@@ -1,7 +1,4 @@
 # TCPServer.py
-# TCPServer.py
-
-
 
 # Week Four Submission. HTTP GET Request of an Existing File. Used Professor Downey's Provided Code as a Start Point
 from socket import socket, SOCK_STREAM, AF_INET
